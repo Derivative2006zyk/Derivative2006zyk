@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I am Zhang San
 
-<!--
-**Derivative2006zyk/Derivative2006zyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My research interests are in computer vision, especially geometric deep learning. I also have a continuing interest in fundamental mathematics. Besides research, I enjoy anime, manga, and a few other hobbies.
 
-Here are some ideas to get you started:
+### Research Interests
+- Computer Vision
+- Geometric Deep Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Learning
+- Currently studying geometric deep learning and how it applies to computer vision.
+
+### Technical Stack
+`Python` `PyTorch`
+
+**Contact**: zw2006722@gmail.com/371093951@qq.com
